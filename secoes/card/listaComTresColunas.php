@@ -1,6 +1,6 @@
 <?php
 
-$servicos = buscaServicosCards();
+$servicos = buscaServicos();
 
 ?>
 
