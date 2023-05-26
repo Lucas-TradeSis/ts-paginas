@@ -3203,7 +3203,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Footer - Personalizado, para footer TradeSis
+#  Personalizado para TradeSis
 --------------------------------------------------------------*/
 
 .footer-newsletter strong a{
@@ -3331,9 +3331,6 @@ header .container-header .mobile-menu samp{
     font-size: 15px;
   }
 
-/* .mobile-conteudo .container-flex{
-  width: 50%;
-} */
 
 .mobile-conteudo{
   display: none;
